@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 class BinaryTree {
     public BinaryTree(){
-
     }
 
     private static class Node{
