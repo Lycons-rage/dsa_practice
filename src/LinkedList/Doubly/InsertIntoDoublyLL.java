@@ -5,11 +5,14 @@ public class InsertIntoDoublyLL {
         DoublyLL list = new DoublyLL();
 
         list.insert(3,1);
+        list.display();
         list.insert(8,1);
-        list.insert(2,2);
-        list.insert(5,1);
-        list.insert(4,2);
-
+        list.display();
+        list.insert(2,3);
+        list.display();
+        list.insert(5,2);
+        list.display();
+        list.insert(4,3);
         list.display();
     }
 }

@@ -1,5 +1,7 @@
 package LinkedList.Doubly;
 
+import java.util.Scanner;
+
 public class DoublyLL {
     Node head;
     int size;
@@ -44,7 +46,28 @@ public class DoublyLL {
                     size++;
                     break;
                 case 3:
-                    System.out.println("UNDER CONSTRUCTION");
+                    System.out.println("AT WHICH POSITION");
+                    Scanner s = new Scanner(System.in);
+                    int choice = s.nextInt();
+                    temp = head;
+                    if(choice > size){
+                        System.out.println("Invalid choice, inserting in the end");
+                        while (temp.next!=null){
+                            temp = temp.next;
+                        }
+                        newNode.prev = temp;
+                        temp.next = newNode;
+                    }
+                    else{
+                        for (int i = 1; i < choice-1; i++) {
+                            temp = temp.next;
+                        }
+                        newNode.next = temp.next;
+                        temp.next.prev = newNode;
+                        temp.next = newNode;
+                        newNode.prev = temp;
+                    }
+                    size++;
                     break;
                 default:
                     System.out.println("INVALID POSITION");
@@ -61,5 +84,24 @@ public class DoublyLL {
         }
         System.out.println("END");
         System.out.println("Size : "+size);
+    }
+
+    public void reverse(){
+        if(head == null){
+            System.out.println("Nothing to reverse");
+        }
+        else{
+            Node temp = head;
+            while(temp.next!=null){
+                temp = temp.next;
+            }
+            for (int i = 0; i <size; i++) {
+                head = temp;
+                temp.next=temp.prev;
+                
+                temp.prev.prev=temp;
+                head.prev = null;
+            }
+        }
     }
 }

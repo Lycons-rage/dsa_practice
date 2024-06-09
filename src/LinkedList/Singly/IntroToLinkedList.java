@@ -10,5 +10,10 @@ public class IntroToLinkedList {
         list.insert(9);
 
         list.display();
+
+        list.insert(3,3);
+        list.display();
+        list.insert(2, 4);
+        list.display();
     }
 }
