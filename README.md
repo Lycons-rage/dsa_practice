@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Lycons-rage/dsa_practice/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Lycons-rage/dsa_practice/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Lycons-rage/dsa_practice/tree/master/0048-rotate-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Lycons-rage/dsa_practice/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Lycons-rage/dsa_practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
