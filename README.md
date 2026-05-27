@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Lycons-rage/dsa_practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Lycons-rage/dsa_practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Lycons-rage/dsa_practice/tree/master/0056-merge-intervals) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lycons-rage/dsa_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Math
 |  |
 | ------- |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Lycons-rage/dsa_practice/tree/master/0056-merge-intervals) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lycons-rage/dsa_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lycons-rage/dsa_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
