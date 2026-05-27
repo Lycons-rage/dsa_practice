@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Lycons-rage/dsa_practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Lycons-rage/dsa_practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Lycons-rage/dsa_practice/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Lycons-rage/dsa_practice/tree/master/0056-merge-intervals) |
 ## Math
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Lycons-rage/dsa_practice/tree/master/0055-jump-game) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Lycons-rage/dsa_practice/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
