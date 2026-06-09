@@ -17,16 +17,34 @@
 
 // this is tabulation bottom - up
 
+// class Solution {
+// public:
+//     int climbStairs(int n) {
+//         vector<int> dp(n+1);
+
+//         dp[0] = dp[1] = 1;
+//         for (int i = 2; i <= n; i++){
+//             dp[i] = dp[i-1] + dp[i-2];
+//         }
+
+//         return dp[n];
+//     }
+// };
+
+
+// this is space optimization
+
 class Solution {
 public:
     int climbStairs(int n) {
-        vector<int> dp(n+1);
-
-        dp[0] = dp[1] = 1;
+        int pre = 1, pre2 = 1;
+        int current = 1;
         for (int i = 2; i <= n; i++){
-            dp[i] = dp[i-1] + dp[i-2];
+            current = pre + pre2;
+            pre2 = pre;
+            pre = current;
         }
 
-        return dp[n];
+        return current;
     }
 };
