@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Lycons-rage/dsa_practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Lycons-rage/dsa_practice/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Lycons-rage/dsa_practice/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Lycons-rage/dsa_practice/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Lycons-rage/dsa_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lycons-rage/dsa_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Lycons-rage/dsa_practice/tree/master/0198-house-robber) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Lycons-rage/dsa_practice/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Lycons-rage/dsa_practice/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Lycons-rage/dsa_practice/tree/master/0064-minimum-path-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Lycons-rage/dsa_practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Lycons-rage/dsa_practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Lycons-rage/dsa_practice/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Lycons-rage/dsa_practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Lycons-rage/dsa_practice/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Lycons-rage/dsa_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Lycons-rage/dsa_practice/tree/master/0198-house-robber) |
