@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lycons-rage/dsa_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Lycons-rage/dsa_practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Lycons-rage/dsa_practice/tree/master/0213-house-robber-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/Lycons-rage/dsa_practice/tree/master/0931-minimum-falling-path-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Lycons-rage/dsa_practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Math
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Lycons-rage/dsa_practice/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Lycons-rage/dsa_practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Lycons-rage/dsa_practice/tree/master/0064-minimum-path-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/Lycons-rage/dsa_practice/tree/master/0931-minimum-falling-path-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Lycons-rage/dsa_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Lycons-rage/dsa_practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Lycons-rage/dsa_practice/tree/master/0213-house-robber-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/Lycons-rage/dsa_practice/tree/master/0931-minimum-falling-path-sum) |
 ## Greedy
 |  |
 | ------- |
